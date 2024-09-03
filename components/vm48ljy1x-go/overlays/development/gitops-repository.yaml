@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vm48ljy1x-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vm48ljy1x-go-gitops
